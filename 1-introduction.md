@@ -1,8 +1,8 @@
-# Base de Donnée
+# Chapitre 1: Introduction
 
 ## Objectifs
 
-- Caracteristique de la base de donnée <b>(Modèle Relationnel, Entité-Association)</b>
+- Caracteristique de la base de donnée **(Modèle Relationnel, Entité-Association)**
 - Pouvoir creer un schema de base de donnée et la creer en SQL
 - Etudier la conception de base de donnée: Créer une base de donnée sécurisée, performante et évolutive
 - TP (SQL)
@@ -73,13 +73,28 @@ Voir le dossier Exercice 1.
 
 ##### SGBD
 
-Ensemble de logiciels coordonné permettant de <b>décrire, mémoriser, manipuler, traiter et interroger</b> efficacement des données spécifiques avec une grande masse d'informations partagées par plusieurs utilisateurs.
+Ensemble de logiciels coordonné permettant de **décrire, mémoriser, manipuler, traiter et interroger** efficacement des données spécifiques avec une grande masse d'informations partagées par plusieurs utilisateurs.
 
 #### Que proposent les SGBD
 
-- La <b>définition</b> de la structure des données
-- La <b>mise à jour</b> des données
-- La <b>recherche</b> des données
-- Le <b>controle</b> des données (sécurité, intégrité, concurrence)
+- La **définition** de la structure des données
+- La **mise à jour** des données
+- La **recherche** des données
+- Le **controle** des données (sécurité, intégrité, concurrence)
 
 nb : Languages textuels ou interfaces graphiques
+
+### Relation BD et SGBD
+
+Les données de la base de données vont être **interrogées et mises à jour** par des utilisateurs via des **programmes d'application** ou des **programmes utilitaires** fournis par le SGBD.
+
+### Défis des SGBD aujourd'hui
+
+- **Multiplication** des types de données
+- Informations **incrorrectres** ou **incomplètes**
+- **Volumes** et **performances** (une bdd peut être réparties dans de nombreux serveurs)
+- Accès aisé par des **non-informaticiens**.
+- Données distribuées et nomades (ex: cloud) pour **partager** et **synchroniser** les données
+- BD et Web : unification
+- Données décisionnelles (BD Traditionnelles / BD d'aide à la décision -> Big Data)
+- Emergence des BD Objet
