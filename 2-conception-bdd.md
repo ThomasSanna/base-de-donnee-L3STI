@@ -77,3 +77,41 @@ Lorsqu'une entreprise décide, pour son informatisation, d'adopter une approche 
 ### Architecture à trois niveaux
 
 On a besoin de **vues externes** pour les utilisateurs, d'une vue conceptuelle pour les concepteurs et d'une vue interne pour les informaticiens.
+
+### Modélisation des données
+
+- **Principe**: Séparer la description des données et manipulation par des programmes
+- **Description**: Spécification des structures des données et de leurs types.
+- **Manipulation**: Opération d'interrogation, d'insertion, mise à jour, suppression.
+- **Réalisation**: Norme ANSI-SPARC (permet de séparer les données et les programmes)
+
+Univers réel -> Schéma conceptuel -> Schéma logique -> Schéma physique
+
+- **Niveau conceptuel**: 
+  - Déscription des besoins => Modèle conceptuel de données
+- **Niveau logique**: 
+  - Traduction du modèle conceptuel en modèle logique => Modèle logique de données
+- **Niveau physique**: 
+  - Choix des structures de stockage des données par les admin-systèmes
+  - Shéma interne: description des choix d'enregistrement des données dans les fichiers
+  - Fait appel à un nouveau modèle, le modèle interne, o`les concepts sont ceux de fichier, organisation de fichier, index, chemin d'accès, clé, ...
+
+### Spécificités d'un SGBD
+
+- Très grande quantité de données à gérer
+- Besoin d'interroger, mettre à jour souvent, rapidement et efficacement ces données
+- Contrôler la redondance d'info
+- Partage des données
+- Gérer les autorisations d'acès / Sécurité des données
+- Offrir des interfaces d'accès multiples
+- Verif les contraintes d'intégrité
+- Assurer la reprise après incident
+
+### /!\ Fonctions des SGBD /!\
+
+- Définition de la structure des données -> Langage de Définition de Données (LDD)
+- **Recherche des données** --
+- **Mise à jour des données** -- Langage de Manipulation de Donnée (LMD)
+- **Transformation des données** --
+- Contrôle de l'intégrité des données
+- Gestion de transactions et sécurité
