@@ -23,4 +23,5 @@
 |libelle_type_vehi|Libellé du type de véhicule|varchar||
 |prix_type_vehi|Prix du type de véhicule|decimal||
 |puiss_fisc_type_vehi|Puissance fiscale du type de véhicule|integer||
+|**id_vehi**|Identifiant unique du véhicule acheté|integer||
 |date_achat_vehi|Date d'achat du véhicule|date||
