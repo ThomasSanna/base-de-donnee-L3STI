@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.12)  20 NOV 2024 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.12)  24 NOV 2024 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -262,32 +262,82 @@ Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footer
 \f@nch@O@erf=\skip60
 \f@nch@O@olf=\skip61
 \f@nch@O@orf=\skip62
-) (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count289
+\lst@gtempboxa=\box55
+\lst@token=\toks28
+\lst@length=\count290
+\lst@currlwidth=\dimen164
+\lst@column=\count291
+\lst@pos=\count292
+\lst@lostspace=\dimen165
+\lst@width=\dimen166
+\lst@newlines=\count293
+\lst@lineno=\count294
+\lst@maxwidth=\dimen167
+ (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count295
+\lst@skipnumbers=\count296
+\lst@framebox=\box56
+) (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count289
-\l__pdf_internal_box=\box55
-) (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.aux)
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box57
+) (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.aux
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+)
 \openout1 = `TPExo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+Package hyperref Info: Link coloring OFF on input line 24.
  (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.out) (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.out)
 \@outlinefile=\write3
 \openout3 = `TPExo.out'.
@@ -329,33 +379,34 @@ Package hyperref Info: Link coloring OFF on input line 22.
 
 (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen164
-\scratchbox=\box56
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen165
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count298
+\scratchdimen=\dimen168
+\scratchbox=\box58
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen169
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks30
 ) (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<img/logoUniv.jpg, id=11, 261.97874pt x 193.72375pt>
+\c@lstlisting=\count304
+<img/logoUniv.jpg, id=155, 261.97874pt x 193.72375pt>
 File: img/logoUniv.jpg Graphic file (type jpg)
 <use img/logoUniv.jpg>
-Package pdftex.def Info: img/logoUniv.jpg  used on input line 26.
+Package pdftex.def Info: img/logoUniv.jpg  used on input line 28.
 (pdftex.def)             Requested size: 215.0023pt x 158.99046pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -364,26 +415,116 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `TPExo.toc'.
 
- [2] [3] (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.aux)
+ [2]
+<graphs/mcd.png, id=210, 627.09282pt x 441.90094pt>
+File: graphs/mcd.png Graphic file (type png)
+<use graphs/mcd.png>
+Package pdftex.def Info: graphs/mcd.png  used on input line 42.
+(pdftex.def)             Requested size: 430.00462pt x 303.02397pt.
+<graphs/couv-mini.png, id=212, 518.6878pt x 462.97969pt>
+File: graphs/couv-mini.png Graphic file (type png)
+<use graphs/couv-mini.png>
+Package pdftex.def Info: graphs/couv-mini.png  used on input line 51.
+(pdftex.def)             Requested size: 344.005pt x 307.07227pt.
+ [3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 
+      <./graphs/mcd.png>] [4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.56 \break
+           \section{Question 2} <./graphs/couv-mini.png>]
+<alg/1.png, id=225, 933.4875pt x 136.25906pt>
+File: alg/1.png Graphic file (type png)
+<use alg/1.png>
+Package pdftex.def Info: alg/1.png  used on input line 64.
+(pdftex.def)             Requested size: 301.00192pt x 43.93645pt.
+ (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+<alg/2.png, id=226, 479.54156pt x 109.1578pt>
+File: alg/2.png Graphic file (type png)
+<use alg/2.png>
+Package pdftex.def Info: alg/2.png  used on input line 82.
+(pdftex.def)             Requested size: 215.0023pt x 48.94066pt.
+<alg/3.png, id=227, 709.14937pt x 155.83218pt>
+File: alg/3.png Graphic file (type png)
+<use alg/3.png>
+Package pdftex.def Info: alg/3.png  used on input line 99.
+(pdftex.def)             Requested size: 301.00192pt x 66.14577pt.
+ [5 <./alg/1.png> <./alg/2.png> <./alg/3.png>]
+<alg/4.png, id=242, 1035.87pt x 337.26pt>
+File: alg/4.png Graphic file (type png)
+<use alg/4.png>
+Package pdftex.def Info: alg/4.png  used on input line 117.
+(pdftex.def)             Requested size: 301.00192pt x 97.99844pt.
+<alg/5.png, id=243, 971.88094pt x 266.49562pt>
+File: alg/5.png Graphic file (type png)
+<use alg/5.png>
+Package pdftex.def Info: alg/5.png  used on input line 147.
+(pdftex.def)             Requested size: 301.00192pt x 82.53552pt.
+ [6 <./alg/4.png> <./alg/5.png>]
+<alg/6.png, id=264, 994.46532pt x 335.00156pt>
+File: alg/6.png Graphic file (type png)
+<use alg/6.png>
+Package pdftex.def Info: alg/6.png  used on input line 177.
+(pdftex.def)             Requested size: 301.00192pt x 101.39578pt.
+<alg/7.png, id=265, 980.91469pt x 391.4625pt>
+File: alg/7.png Graphic file (type png)
+<use alg/7.png>
+Package pdftex.def Info: alg/7.png  used on input line 209.
+(pdftex.def)             Requested size: 301.00192pt x 120.12163pt.
+ [7 <./alg/6.png>]
+<alg/8.png, id=298, 944.7797pt x 408.02437pt>
+File: alg/8.png Graphic file (type png)
+<use alg/8.png>
+Package pdftex.def Info: alg/8.png  used on input line 241.
+(pdftex.def)             Requested size: 301.00192pt x 129.99768pt.
+ [8 <./alg/7.png>]
+<alg/9.png, id=318, 860.46469pt x 340.27126pt>
+File: alg/9.png Graphic file (type png)
+<use alg/9.png>
+Package pdftex.def Info: alg/9.png  used on input line 280.
+(pdftex.def)             Requested size: 301.00192pt x 119.03441pt.
+ [9 <./alg/8.png>]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 292.
+ (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 292.
+<alg/10.png, id=345, 1020.81375pt x 365.11406pt>
+File: alg/10.png Graphic file (type png)
+<use alg/10.png>
+Package pdftex.def Info: alg/10.png  used on input line 312.
+(pdftex.def)             Requested size: 301.00192pt x 107.65756pt.
+ [10 <./alg/9.png> <./alg/10.png>] [11] [12] [13] (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `TPExo.out' has not changed.
-(rerunfilecheck)             Checksum: 8B58968B5B30F52537DCA015FB8AC2F3;206.
+(rerunfilecheck)             Checksum: C5939D06A1E75A99897287B57400AA6F;7674.
  ) 
 Here is how much of TeX's memory you used:
- 10371 strings out of 474486
- 160179 string characters out of 5743755
- 1927542 words of memory out of 5000000
- 32518 multiletter control sequences out of 15000+600000
+ 12600 strings out of 474486
+ 190583 string characters out of 5743755
+ 1964542 words of memory out of 5000000
+ 34525 multiletter control sequences out of 15000+600000
  566267 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,316b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\thoma\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.pdf (3 pages, 81870 bytes).
+ 75i,12n,79p,614b,1306s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\thoma\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.pdf (13 pages, 6323258 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 520 PDF objects out of 1000 (max. 8388607)
+ 214 named destinations out of 1000 (max. 500000)
+ 370 words of extra memory for PDF output out of 10000 (max. 10000000)
 
