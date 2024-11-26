@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.12)  24 NOV 2024 20:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.12)  26 NOV 2024 14:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -316,6 +316,36 @@ LaTeX Warning: Label `fig:alg-rel' multiply defined.
 
 LaTeX Warning: Label `fig:alg-rel' multiply defined.
 
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
+
+LaTeX Warning: Label `fig:alg-rel' multiply defined.
+
 )
 \openout1 = `TPExo.aux'.
 
@@ -442,66 +472,121 @@ File: alg/1.png Graphic file (type png)
 <use alg/1.png>
 Package pdftex.def Info: alg/1.png  used on input line 64.
 (pdftex.def)             Requested size: 301.00192pt x 43.93645pt.
+<algRel/1.png, id=226, 356.0803pt x 324.46219pt>
+File: algRel/1.png Graphic file (type png)
+<use algRel/1.png>
+Package pdftex.def Info: algRel/1.png  used on input line 70.
+(pdftex.def)             Requested size: 215.0023pt x 195.91158pt.
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
-<alg/2.png, id=226, 479.54156pt x 109.1578pt>
+<alg/2.png, id=227, 479.54156pt x 109.1578pt>
 File: alg/2.png Graphic file (type png)
 <use alg/2.png>
-Package pdftex.def Info: alg/2.png  used on input line 82.
+Package pdftex.def Info: alg/2.png  used on input line 88.
 (pdftex.def)             Requested size: 215.0023pt x 48.94066pt.
-<alg/3.png, id=227, 709.14937pt x 155.83218pt>
+<algRel/2.png, id=228, 268.75406pt x 243.91125pt>
+File: algRel/2.png Graphic file (type png)
+<use algRel/2.png>
+Package pdftex.def Info: algRel/2.png  used on input line 94.
+(pdftex.def)             Requested size: 215.0023pt x 195.12926pt.
+ [5 <./alg/1.png> <./algRel/1.png> <./alg/2.png>]
+<alg/3.png, id=240, 709.14937pt x 155.83218pt>
 File: alg/3.png Graphic file (type png)
 <use alg/3.png>
-Package pdftex.def Info: alg/3.png  used on input line 99.
+Package pdftex.def Info: alg/3.png  used on input line 112.
 (pdftex.def)             Requested size: 301.00192pt x 66.14577pt.
- [5 <./alg/1.png> <./alg/2.png> <./alg/3.png>]
-<alg/4.png, id=242, 1035.87pt x 337.26pt>
+<algRel/3.png, id=241, 309.40594pt x 412.54124pt>
+File: algRel/3.png Graphic file (type png)
+<use algRel/3.png>
+Package pdftex.def Info: algRel/3.png  used on input line 118.
+(pdftex.def)             Requested size: 215.0023pt x 286.68071pt.
+ [6 <./algRel/2.png> <./alg/3.png>]
+<alg/4.png, id=251, 1035.87pt x 337.26pt>
 File: alg/4.png Graphic file (type png)
 <use alg/4.png>
-Package pdftex.def Info: alg/4.png  used on input line 117.
+Package pdftex.def Info: alg/4.png  used on input line 137.
 (pdftex.def)             Requested size: 301.00192pt x 97.99844pt.
-<alg/5.png, id=243, 971.88094pt x 266.49562pt>
+<algRel/4.png, id=252, 404.26031pt x 435.12563pt>
+File: algRel/4.png Graphic file (type png)
+<use algRel/4.png>
+Package pdftex.def Info: algRel/4.png  used on input line 143.
+(pdftex.def)             Requested size: 215.0023pt x 231.41885pt.
+ [7 <./algRel/3.png> <./alg/4.png>]
+<alg/5.png, id=264, 971.88094pt x 266.49562pt>
 File: alg/5.png Graphic file (type png)
 <use alg/5.png>
-Package pdftex.def Info: alg/5.png  used on input line 147.
+Package pdftex.def Info: alg/5.png  used on input line 174.
 (pdftex.def)             Requested size: 301.00192pt x 82.53552pt.
- [6 <./alg/4.png> <./alg/5.png>]
-<alg/6.png, id=264, 994.46532pt x 335.00156pt>
+ [8 <./algRel/4.png>]
+<algRel/5.png, id=280, 486.31688pt x 506.6428pt>
+File: algRel/5.png Graphic file (type png)
+<use algRel/5.png>
+Package pdftex.def Info: algRel/5.png  used on input line 180.
+(pdftex.def)             Requested size: 215.0023pt x 223.98264pt.
+<alg/6.png, id=281, 994.46532pt x 335.00156pt>
 File: alg/6.png Graphic file (type png)
 <use alg/6.png>
-Package pdftex.def Info: alg/6.png  used on input line 177.
+Package pdftex.def Info: alg/6.png  used on input line 211.
 (pdftex.def)             Requested size: 301.00192pt x 101.39578pt.
-<alg/7.png, id=265, 980.91469pt x 391.4625pt>
+ [9 <./alg/5.png> <./algRel/5.png>]
+<algRel/6.png, id=300, 492.33937pt x 507.39563pt>
+File: algRel/6.png Graphic file (type png)
+<use algRel/6.png>
+Package pdftex.def Info: algRel/6.png  used on input line 217.
+(pdftex.def)             Requested size: 215.0023pt x 221.5747pt.
+ [10 <./alg/6.png> <./algRel/6.png>]
+<alg/7.png, id=317, 980.91469pt x 391.4625pt>
 File: alg/7.png Graphic file (type png)
 <use alg/7.png>
-Package pdftex.def Info: alg/7.png  used on input line 209.
+Package pdftex.def Info: alg/7.png  used on input line 250.
 (pdftex.def)             Requested size: 301.00192pt x 120.12163pt.
- [7 <./alg/6.png>]
-<alg/8.png, id=298, 944.7797pt x 408.02437pt>
+<algRel/7.png, id=318, 492.33937pt x 501.37312pt>
+File: algRel/7.png Graphic file (type png)
+<use algRel/7.png>
+Package pdftex.def Info: algRel/7.png  used on input line 256.
+(pdftex.def)             Requested size: 215.0023pt x 218.94473pt.
+ [11 <./alg/7.png> <./algRel/7.png>]
+<alg/8.png, id=333, 944.7797pt x 408.02437pt>
 File: alg/8.png Graphic file (type png)
 <use alg/8.png>
-Package pdftex.def Info: alg/8.png  used on input line 241.
+Package pdftex.def Info: alg/8.png  used on input line 289.
 (pdftex.def)             Requested size: 301.00192pt x 129.99768pt.
- [8 <./alg/7.png>]
-<alg/9.png, id=318, 860.46469pt x 340.27126pt>
+<algRel/8.png, id=334, 524.71031pt x 505.89pt>
+File: algRel/8.png Graphic file (type png)
+<use algRel/8.png>
+Package pdftex.def Info: algRel/8.png  used on input line 295.
+(pdftex.def)             Requested size: 215.0023pt x 207.29272pt.
+ [12 <./alg/8.png> <./algRel/8.png>]
+<alg/9.png, id=351, 860.46469pt x 340.27126pt>
 File: alg/9.png Graphic file (type png)
 <use alg/9.png>
-Package pdftex.def Info: alg/9.png  used on input line 280.
+Package pdftex.def Info: alg/9.png  used on input line 335.
 (pdftex.def)             Requested size: 301.00192pt x 119.03441pt.
- [9 <./alg/8.png>]
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 292.
+<algRel/9.png, id=352, 481.8pt x 507.39563pt>
+File: algRel/9.png Graphic file (type png)
+<use algRel/9.png>
+Package pdftex.def Info: algRel/9.png  used on input line 341.
+(pdftex.def)             Requested size: 215.0023pt x 226.42134pt.
+ [13 <./alg/9.png>]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 354.
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 292.
-<alg/10.png, id=345, 1020.81375pt x 365.11406pt>
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 354.
+<alg/10.png, id=380, 1020.81375pt x 365.11406pt>
 File: alg/10.png Graphic file (type png)
 <use alg/10.png>
-Package pdftex.def Info: alg/10.png  used on input line 312.
+Package pdftex.def Info: alg/10.png  used on input line 374.
 (pdftex.def)             Requested size: 301.00192pt x 107.65756pt.
- [10 <./alg/9.png> <./alg/10.png>] [11] [12] [13] (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.aux)
+ [14 <./algRel/9.png>]
+<algRel/10.png, id=401, 469.00218pt x 515.67656pt>
+File: algRel/10.png Graphic file (type png)
+<use algRel/10.png>
+Package pdftex.def Info: algRel/10.png  used on input line 380.
+(pdftex.def)             Requested size: 215.0023pt x 236.39575pt.
+ [15 <./alg/10.png> <./algRel/10.png>] [16] [17] [18] (c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -514,17 +599,17 @@ Package rerunfilecheck Info: File `TPExo.out' has not changed.
 (rerunfilecheck)             Checksum: C5939D06A1E75A99897287B57400AA6F;7674.
  ) 
 Here is how much of TeX's memory you used:
- 12600 strings out of 474486
- 190583 string characters out of 5743755
+ 12675 strings out of 474486
+ 191945 string characters out of 5743755
  1964542 words of memory out of 5000000
- 34525 multiletter control sequences out of 15000+600000
+ 34595 multiletter control sequences out of 15000+600000
  566267 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,614b,1306s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,79p,614b,1931s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\thoma\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.pdf (13 pages, 6323258 bytes).
+Output written on c:\Users\thoma\Desktop\programmes\L3STI\base-de-donnee-L3STI\TP1\aux_files\TPExo.pdf (18 pages, 6516111 bytes).
 PDF statistics:
- 520 PDF objects out of 1000 (max. 8388607)
- 214 named destinations out of 1000 (max. 500000)
- 370 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 564 PDF objects out of 1000 (max. 8388607)
+ 219 named destinations out of 1000 (max. 500000)
+ 420 words of extra memory for PDF output out of 10000 (max. 10000000)
 
